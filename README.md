@@ -6,4 +6,4 @@
     - UI 마크업 및 스타일링
     - 웹 폰트 활용
 - 활용기술: `HTML, CSS ,JavaScript, VSCODE, Github`
-- URL: [URL](https://csslick.github.io/saying-app-2023-11/)https://csslick.github.io/saying-app-2023-11/
+- URL: (https://csslick.github.io/saying-app-2023-11/)https://csslick.github.io/saying-app-2023-11/
